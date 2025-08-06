@@ -52,55 +52,14 @@ body {
     border-bottom: 2px solid gold;
 }
 
-/* ====== BANNER SECTION ====== */
-/* .banner {
-    background-image: url("assets/bg.jpg");
-    background-size: cover;
-    background-position: center;
-    padding-top: 100px;
-    height: 80vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
 
-.inner_content {
-    display: flex;
-    max-width: 1200px;
-    align-items: center;
-    gap: 50px;
-} */
-
-/* .banner-left .hero-img {
-    width: 350px;
-}
-
-.banner-right {
-    color: white;
-    max-width: 500px;
-}
-
-.banner-right h1 {
-    font-size: 32px;
-    margin: 10px 0;
-}
-
-.banner-right h2 {
-    font-size: 22px;
-}
-
-.banner-right p {
-    margin-top: 10px;
-    line-height: 1.6;
-} */
-
-/* ====== LOGIN BACKGROUND SECTION ====== */
 .login-banner {
     background-image: url("assets/bg_.jpg"); /* Use a different background if you want */
     background-size: cover;
     background-position: center;
     padding: 80px 20px;
     display: flex;
+    height: 60vh;
     justify-content: center;
     align-items: center;
 }
